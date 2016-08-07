@@ -7,6 +7,6 @@ for i in range(len(l)+1):
 			if t==t[::-1]:
 				#print t  #this statement prints unique substring palindromes
 				co=co+1
-print co
+print co   #count of palindrome substrings
 
 			
